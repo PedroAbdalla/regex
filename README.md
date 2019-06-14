@@ -1,4 +1,5 @@
 # regex
+<!--
 exemplos de expressões regulares
 
 nomes 
@@ -266,6 +267,7 @@ _____negar palavra___
 ^( [^a] | a[^q] | aq[^u] | aqu[^i] )  -- nega a apalarva aqui no inicio
 (?!aqui) -- modernos
 
+-->
 
 ***Negar uma palavra, só no começo ou fim da linha.*****
 ***Há como negar uma ou mais palavras, em apenas alguns aplicativos.****
